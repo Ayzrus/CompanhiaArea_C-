@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\[C#]\\TestePT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB181E74-1BF5-49A0-B33B-08DD5223B970}|CompanhiaArea\\CompanhiaArea.csproj|d:\\[c#]\\testept\\companhiaarea\\companhia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB181E74-1BF5-49A0-B33B-08DD5223B970}|CompanhiaArea\\CompanhiaArea.csproj|solutionrelative:companhiaarea\\companhia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB181E74-1BF5-49A0-B33B-08DD5223B970}|CompanhiaArea\\CompanhiaArea.csproj|d:\\[c#]\\testept\\companhiaarea\\models\\tripulantesclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB181E74-1BF5-49A0-B33B-08DD5223B970}|CompanhiaArea\\CompanhiaArea.csproj|solutionrelative:companhiaarea\\models\\tripulantesclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB181E74-1BF5-49A0-B33B-08DD5223B970}|CompanhiaArea\\CompanhiaArea.csproj|d:\\[c#]\\testept\\companhiaarea\\models\\viagensclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB181E74-1BF5-49A0-B33B-08DD5223B970}|CompanhiaArea\\CompanhiaArea.csproj|solutionrelative:companhiaarea\\models\\viagensclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB181E74-1BF5-49A0-B33B-08DD5223B970}|CompanhiaArea\\CompanhiaArea.csproj|d:\\[c#]\\testept\\companhiaarea\\models\\voosclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB181E74-1BF5-49A0-B33B-08DD5223B970}|CompanhiaArea\\CompanhiaArea.csproj|solutionrelative:companhiaarea\\models\\voosclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB181E74-1BF5-49A0-B33B-08DD5223B970}|CompanhiaArea\\CompanhiaArea.csproj|D:\\[C#]\\TestePT\\companhiaarea\\companhia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB181E74-1BF5-49A0-B33B-08DD5223B970}|CompanhiaArea\\CompanhiaArea.csproj|solutionrelative:companhiaarea\\companhia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoosClass.cs",
+              "DocumentMoniker": "D:\\[C#]\\TestePT\\CompanhiaArea\\Models\\VoosClass.cs",
+              "RelativeDocumentMoniker": "CompanhiaArea\\Models\\VoosClass.cs",
+              "ToolTip": "D:\\[C#]\\TestePT\\CompanhiaArea\\Models\\VoosClass.cs",
+              "RelativeToolTip": "CompanhiaArea\\Models\\VoosClass.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwEQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:30:41.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViagensClass.cs",
+              "DocumentMoniker": "D:\\[C#]\\TestePT\\CompanhiaArea\\Models\\ViagensClass.cs",
+              "RelativeDocumentMoniker": "CompanhiaArea\\Models\\ViagensClass.cs",
+              "ToolTip": "D:\\[C#]\\TestePT\\CompanhiaArea\\Models\\ViagensClass.cs",
+              "RelativeToolTip": "CompanhiaArea\\Models\\ViagensClass.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:30:01.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripulantesClass.cs",
+              "DocumentMoniker": "D:\\[C#]\\TestePT\\CompanhiaArea\\Models\\TripulantesClass.cs",
+              "RelativeDocumentMoniker": "CompanhiaArea\\Models\\TripulantesClass.cs",
+              "ToolTip": "D:\\[C#]\\TestePT\\CompanhiaArea\\Models\\TripulantesClass.cs",
+              "RelativeToolTip": "CompanhiaArea\\Models\\TripulantesClass.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAjwCUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:29:56.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Companhia.cs",
+              "DocumentMoniker": "D:\\[C#]\\TestePT\\CompanhiaArea\\Companhia.cs",
+              "RelativeDocumentMoniker": "CompanhiaArea\\Companhia.cs",
+              "ToolTip": "D:\\[C#]\\TestePT\\CompanhiaArea\\Companhia.cs",
+              "RelativeToolTip": "CompanhiaArea\\Companhia.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAADwv9YAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:08:08.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Companhia.cs [Projeto]",
+              "DocumentMoniker": "D:\\[C#]\\TestePT\\CompanhiaArea\\Companhia.cs",
+              "RelativeDocumentMoniker": "CompanhiaArea\\Companhia.cs",
+              "ToolTip": "D:\\[C#]\\TestePT\\CompanhiaArea\\Companhia.cs [Projeto]",
+              "RelativeToolTip": "CompanhiaArea\\Companhia.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T16:28:28.809Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
